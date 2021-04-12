@@ -5,3 +5,13 @@ Using codon usage to predict taxonomic identities of organisms using data from C
 
 ## Group Member:
 Ng Yong Zhi
+
+## Packages used:
+* wget 
+* requests 
+* selenium 
+* biopython 
+* pandas 
+* scikit-learn 
+* matplotlib
+* xgboost
