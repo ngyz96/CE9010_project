@@ -5,3 +5,5 @@ chromedriver.exe
 data/o586358-Refseq_species.tsv
 geckodriver.exe
 geckodriver.log
+data/X_cleaned.csv
+data/y_cleaned.csv
