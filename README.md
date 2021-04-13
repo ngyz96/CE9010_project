@@ -7,6 +7,7 @@ Using codon usage to predict taxonomic identities of organisms using data from C
 Ng Yong Zhi
 
 ## Packages used:
+* Python=3.9
 * wget 
 * requests 
 * selenium 
@@ -15,3 +16,6 @@ Ng Yong Zhi
 * scikit-learn 
 * matplotlib
 * xgboost
+
+## Conda environment
+If you have conda installed, you can install the environment used in this analysis by cloning the repository and running `conda env create -f environment.yml`. Else, ensure your python version is 3.9 and run the first line in the project notebook to install the required packages. 
