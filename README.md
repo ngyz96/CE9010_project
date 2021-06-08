@@ -2,7 +2,7 @@
 ---
 Project for CE9010 at School of Computer Science and Engineering, Nanyang Technological University
 
-Utilizing codon usage to predict taxonomic identities of organisms using data from Codon and Codon-Pair Usage Tables (CoCoPUTs) (doi: 10.1016/j.jmb.2019.04.021).
+Data obtained from: Using codon usage to predict taxonomic identities of organisms using data from Codon and Codon-Pair Usage Tables (CoCoPUTs) (doi: 10.1016/j.jmb.2019.04.021).
 
 ## Group Member:
 Ng Yong Zhi
